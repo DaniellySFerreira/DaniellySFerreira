@@ -1,6 +1,5 @@
 ## Oiii Eu sou a Danielly Ferreira
 
-- 🌱 Estou estudando atualmente Python, Java Script and MySQL
 - 📫 Como chegar até mim: daniellyferreira@gmail.com
 - 😄 Pronomes: Ela/Dela
 
